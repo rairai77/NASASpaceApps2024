@@ -1,2 +1,1 @@
-# NASASpaceApps2024
-# NASASpaceApps2024
+# GeoBrains' project for NASA Space Apps 2024
