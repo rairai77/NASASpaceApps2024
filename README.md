@@ -1,3 +1,7 @@
 # GeoBrains' project for NASA Space Apps 2024
 
 [Demo website](https://rairai77.github.io/NASASpaceApps2024/)
+
+CrossMaps is a Geospatial Community Decision Support Tool. Good public policy formation requires informed community participation. The conventional flat “maps” used for statistics are hard for ordinary people to understand and usually only represent one variable at a time without showing the actual interactions between statistical variables and spatial context. CrossMaps ('cross-product') is a pipeline producing a 3D animated visualization of statistical surfaces which depicts the relationships and interactions between the often conflicting and competing statistical knowledge of equity, environment, and economy. CrossMaps enables resolving conflicts, making trade-offs, and recognizing opportunities. The pipeline can be adapted to any statistical datasets and can be chained to resolve multiple stages of decision points. Open data from NASA SEDAC/CIESIN, King County, Washington State DNR, and DOT were used. As an open source project, it could be funded from providing statistical tech support for enterprises, NSF Grants, NGO Grants (UN), and corporate donations. This project would benefit anyone that works with multiple statistical data sources, especially community groups & activist organizations, government groups requiring public comments, individuals & neighborhoods, and health service agencies.
+
+[Project Slides](https://drive.google.com/file/d/1Tk5zuibUGeQIHbmgY6uTbh3IZKnx91Cf/view)
